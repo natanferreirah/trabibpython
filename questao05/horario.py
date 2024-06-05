@@ -1,4 +1,4 @@
-hora = int(input("Digite um horário: "))
+hora = int(input("Digite um horário:"))
 if hora < 0 or hora > 23:
     print("Digite um número entre 0 e 23")
 else:
